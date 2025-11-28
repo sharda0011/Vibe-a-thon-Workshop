@@ -50,7 +50,7 @@ Open `index.html` in your text editor and find this section:
 ```html
 <!-- ADD YOUR CARD HERE -->
 <div class="contributor-card">
-    <div class="contributor-name">Jane Smith</div>
+    <div class="contributor-name">Falana Dimkana</div>
     <div class="contributor-role">Software Developer</div>
 </div>
 ```
